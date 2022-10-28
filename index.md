@@ -4,3 +4,7 @@
 $ git add .
 $ git commit -m "" . 
 ```
+
+- [X] pull request open
+- [ ] add task list
+- [ ] add change comment
